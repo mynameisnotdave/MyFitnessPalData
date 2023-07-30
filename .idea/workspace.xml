@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="009b06be-86ff-43a6-ba0b-bd30de87342e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSVtoJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyFitnessPalData.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/aidan/MyFitnessPalData/CSVtoJSON.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/aidan/MyFitnessPalData/GetNutritionData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/aidan/MyFitnessPalData/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/aidan/MyFitnessPalData/NutritionDataInput.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NyWgBIawYRRMQRiFRAeue7r72i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/aidan/Downloads/sqlite-jdbc-3.42.0.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlite&quot;
+    ]
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="console.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$APPLICATION_CONFIG_DIR$/consoles/db/b2b0aa09-b59f-4279-99fc-fa95ec9d26de/console.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="009b06be-86ff-43a6-ba0b-bd30de87342e" name="Changes" comment="" />
+      <created>1680636914913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680636914913</updated>
+      <workItem from="1680636915978" duration="304000" />
+      <workItem from="1680637569507" duration="4165000" />
+      <workItem from="1680691498324" duration="13000" />
+      <workItem from="1681034982714" duration="21000" />
+      <workItem from="1681305837322" duration="667000" />
+      <workItem from="1681327388339" duration="1539000" />
+      <workItem from="1687713572545" duration="290000" />
+      <workItem from="1687713890940" duration="1238000" />
+      <workItem from="1687877367258" duration="494000" />
+      <workItem from="1687895179470" duration="2814000" />
+      <workItem from="1688144348897" duration="69000" />
+      <workItem from="1688369869158" duration="1702000" />
+      <workItem from="1688376412408" duration="4215000" />
+      <workItem from="1688388334978" duration="2137000" />
+      <workItem from="1688749730709" duration="1623000" />
+      <workItem from="1690652129237" duration="1251000" />
+      <workItem from="1690737866690" duration="437000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/org/aidan/MyFitnessPalData/GetNutritionData.java" line="13">
+        <watch expression="nutritionOutput" />
+      </inline-watch>
+    </watches-manager>
+  </component>
+</project>

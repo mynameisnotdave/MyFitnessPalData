@@ -5,25 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="009b06be-86ff-43a6-ba0b-bd30de87342e" name="Changes" comment="up2date">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFitnessPalData.ipr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyFitnessPalData.iws" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CSVJSONv2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/b2b0aa09-b59f-4279-99fc-fa95ec9d26de.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/b2b0aa09-b59f-4279-99fc-fa95ec9d26de.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSVtoJSON.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MyFitnessPalData.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyFitnessPalData.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/aidan/MyFitnessPalData/CSVtoJSON.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/aidan/MyFitnessPalData/GetNutritionData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/aidan/MyFitnessPalData/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/org/aidan/MyFitnessPalData/NutritionDataInput.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CSVJSONv2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CSVJSONv2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,7 +141,7 @@
       <workItem from="1690985816248" duration="1795000" />
       <workItem from="1690987727739" duration="670000" />
       <workItem from="1691395079473" duration="2392000" />
-      <workItem from="1691411534408" duration="5668000" />
+      <workItem from="1691411534408" duration="6133000" />
     </task>
     <task id="LOCAL-00001" summary="up2date">
       <option name="closed" value="true" />
@@ -177,11 +159,30 @@
       <option name="project" value="LOCAL" />
       <updated>1690738576662</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="up2date">
+      <option name="closed" value="true" />
+      <created>1691417353334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691417353334</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="up2date" />
